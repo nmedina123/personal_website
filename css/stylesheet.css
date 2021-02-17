@@ -5,3 +5,14 @@ body {
 h1 {
     color: #016A59;
 }
+aside {
+  padding-left: 1000px;
+  margin-left: 1000px
+}
+
+nav {
+    background-color: LightBlue;
+    text-align: center
+}
+.me {font-family: 'Montserrat', sans-serif;
+}
